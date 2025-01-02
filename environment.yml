@@ -1,4 +1,11 @@
 dependencies:
   - python=3.12
   - ipykernel
-  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - seaborn
+  - scikit-learn
+  - ipywidgets
+  - tqdm
+  - openpyxl
