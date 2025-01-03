@@ -1,1 +1,1 @@
-conda env create -n DataCamp -f environment.yml
+conda env create --prefix ./.conda --file environment.yml

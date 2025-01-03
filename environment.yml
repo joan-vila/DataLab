@@ -1,11 +1,13 @@
+channels:
+  - conda-forge
 dependencies:
   - python=3.12
-  - ipykernel
+  - jupyter
+  - ipywidgets
   - matplotlib
+  - openpyxl
   - pandas
+  - scikit-learn
   - scipy
   - seaborn
-  - scikit-learn
-  - ipywidgets
   - tqdm
-  - openpyxl
